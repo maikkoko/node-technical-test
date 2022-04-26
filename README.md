@@ -8,7 +8,7 @@ This project uses **Typescript** to provide strict typing and structural typing 
 
 ## Assumptions
 
-This program will be used as an add-on/utility libraty to an existing API or as a stand-alone tool.
+This program will be used as an add-on/utility library to an existing API or as a stand-alone tool.
 
 ## Running the Application (Demo)
 
